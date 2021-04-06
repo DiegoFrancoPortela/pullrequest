@@ -1,5 +1,5 @@
 package com.dam1;
 
 public class Diego {
-    //Esto es un comentario
+    //Esto es un comentario.
 }
